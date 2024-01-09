@@ -8,5 +8,6 @@
 public with sharing class MyFirstApex {
     public myFirstApex() {
  system.debug('hello');
+ system.debug('worl');
     }
 }
